@@ -1,0 +1,6 @@
+id,name,age,department,salary
+1,Adams Nonye,29,Engineering,70000
+2,Chukwufunanya Osai,NaN,Marketing,55000
+3,Janet Iliya,45,,60000
+4,Onyebuchi Akor,34,Sales,NaN
+5,Musa Ibrahim,38,Engineering,72000
